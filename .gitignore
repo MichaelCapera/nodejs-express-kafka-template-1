@@ -1,0 +1,34 @@
+# Dependencias instaladas con npm
+/node_modules
+
+# Directorio donde se guardan los módulos binarios compilados
+/build
+
+# Archivos de log
+*.log
+
+# Archivos de respaldo generados por el editor
+*~
+
+# Archivos temporales
+.tmp/
+
+# Archivos de configuración locales
+.env
+
+# Archivo de caché npm
+.npm
+
+# Archivo de caché yarn
+.yarn
+
+# Archivos de registro npm
+.npm-debug.log*
+
+# Archivos de dependencias
+package-lock.json
+yarn.lock
+
+# Dependencias específicas de sistemas operativos
+.DS_Store
+Thumbs.db
